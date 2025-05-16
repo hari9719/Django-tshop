@@ -1,0 +1,13 @@
+# skip the virtual environment
+virt/
+
+# project files
+
+# migration files
+migrations/
+#cache files
+__pycache__/
+# SQLite database
+db.sqlite3
+#media files
+media/
